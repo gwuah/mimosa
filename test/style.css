@@ -1,0 +1,22 @@
+.body {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	display: inline;
+	margin-bottom: 200px;
+}
+
+li {
+	display: inline-block;
+}
+
+div {
+	margin-top: 50px;
+	padding: 30px;
+	font-size: 28px;
+	font-family: monospace;
+	border: 1px solid #fc3;
+	margin: 18px;
+}
