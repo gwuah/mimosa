@@ -19,7 +19,7 @@
 
 	// insert a custom stylesheet
 	// trying to keep the library fully javascript
-	injectCss(".mimosa { display: none }")
+	injectCss(".mimosa_child { display: none } .mimosa { display: block }")
 
 	// event listener
 	factory.addEventListener("click", (e) => {
